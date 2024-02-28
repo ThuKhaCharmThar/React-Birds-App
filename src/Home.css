@@ -1,0 +1,10 @@
+.hov:hover{
+    transform: scale(1.2);
+   
+}
+.hov{
+    transition: transform 0.3s ease-in-out;
+}
+.txtcol{
+    color: gray;
+}

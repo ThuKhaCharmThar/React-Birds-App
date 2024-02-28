@@ -3,8 +3,9 @@ import Home from "./Home";
 import Navbar from "./Navbar";
 import BirdDetails from "./BirdDetails";
 import NotFound from "./NotFound";
-import BirdList from "./BirdList";
+// import BirdList from "./BirdList";
 import Birds from "./Birds";
+import "./App.css";
 
 function App() {
   return (
